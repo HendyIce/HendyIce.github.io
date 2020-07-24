@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Henderson Ice Hockey Club",
-    "currentPage": "gamegear.html",
+    "currentPage": "page15.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -12578,7 +12578,7 @@
     },
     "donations.html": {
       "settings": {
-        "title": "Donations",
+        "title": "Helping Out",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
